@@ -1,0 +1,10 @@
+The package requirements for the given Python program are as follows:
+
+- requests
+- BeautifulSoup
+- pandas
+- numpy
+- matplotlib
+- smtplib
+
+You can install these packages using pip by running the command `pip install package_name` for each package.
